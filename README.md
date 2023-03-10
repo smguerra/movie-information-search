@@ -25,21 +25,13 @@ Movie Information Search is a simple React application with which users can quer
 ## Installation
 
 
-Please be sure to install the axios library by running npm install axios in your terminal.
+Please be sure to install the axios library by running npm install axios in your terminal, also Start the app in dev mode by running npm start.
 
 
 ## How to use this programme?
 
 
-In the command line the user types node and the name of their js file, then answers the questions to generate the html file. When the application starts, they are prompted to enter the team manager’s: Name, Employee ID, Email address and Office number.
-
-After a user enters those requirements then the user is presented with a menu with the option to: Add an engineer, Add an intern and Finish building the team.
-
-When a user selects the engineer option then a user is prompted to enter the following and then the user is taken back to the menu: Engineer's Name, ID, Email and GitHub username.
-
-When a user selects the intern option then a user is prompted to enter the following and then the user is taken back to the menu: Intern’s name, ID, Email and School.
-
-Finally, When a user decides to finish building their team then they exit the application, and the HTML is generated.
+This application is supposed to allow users to search for the name of a movie via the form on the right of the page and display information from the OMDb API on the left side. 
 
 
 ## License 
@@ -61,7 +53,7 @@ N/A
 
 ## Questions
     
-If you have any questions about the repo, feel free to contact me on [GitHub](https://github.com/smguerra). you can find more information at: https://smguerra.github.io/team-profile-generator/
+If you have any questions about the repo, feel free to contact me on [GitHub](https://github.com/smguerra). you can find more information at: https://github.com/smguerra/movie-information-search
 
 
 ## Screenshot
@@ -71,25 +63,25 @@ If you have any questions about the repo, feel free to contact me on [GitHub](ht
 
 ## Tech-Stack
 
+- React
 - JavaScript 
 - HTML
-- Npm Inquirer package
-- Npm Jest package
+- Bootstrap
+- Npm axios
 - Node.js
 
 
 ## Links to the deployed application and the GitHub repository
 
 
-- Live Site URL: https://smguerra.github.io/team-profile-generator/
-- Project URL: https://github.com/smguerra/team-profile-generator
+- Project URL: https://github.com/smguerra/movie-information-search
 
 
 ## Author
 
 - Sandra Guerra
 
-© 2022 edX Boot Camps LLC.
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 
 
