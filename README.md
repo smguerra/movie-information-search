@@ -1,13 +1,13 @@
 # Project's Title
 
 
-Movie Information Search
+Movie Information Search Application
 
 
 ## Description 
 
 
-Movie Information Search is a simple React application with which users can query the OMDb API and display information about the movie that is searched for.
+Movie Information Search Application is a simple React application with which users can query the OMDb API and display information about the movie that is searched for.
 
 
 ## Table of Contents 
