@@ -58,8 +58,8 @@ If you have any questions about the repo, feel free to contact me on [GitHub](ht
 
 ## Screenshot
 
+![movie-search-screenshot](https://user-images.githubusercontent.com/118385737/224313235-d58b9aba-90b7-4458-9280-74d019b2c2cd.png)
 
-![screenshot1](https://user-images.githubusercontent.com/118385737/222846876-3bdae8eb-41a0-421f-acc2-f95c8603fa99.png)
 
 ## Tech-Stack
 
