@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# Project's Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Movie Information Search
 
-In the project directory, you can run:
 
-### `npm start`
+## Description 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Movie Information Search is a simple React application with which users can query the OMDb API and display information about the movie that is searched for.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Table of Contents 
 
-### `npm run build`
+* [Installation](#installation) 
+* [Usage](#usage) 
+* [License](#license)
+* [Contributing](#contributing)
+* [Test](#test)
+* [Questions](#questions)
+* [Screenshot](#screenshot)
+* [Tech-Stack](#tech-stack)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Please be sure to install the axios library by running npm install axios in your terminal.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How to use this programme?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+In the command line the user types node and the name of their js file, then answers the questions to generate the html file. When the application starts, they are prompted to enter the team manager’s: Name, Employee ID, Email address and Office number.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+After a user enters those requirements then the user is presented with a menu with the option to: Add an engineer, Add an intern and Finish building the team.
 
-## Learn More
+When a user selects the engineer option then a user is prompted to enter the following and then the user is taken back to the menu: Engineer's Name, ID, Email and GitHub username.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+When a user selects the intern option then a user is prompted to enter the following and then the user is taken back to the menu: Intern’s name, ID, Email and School.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Finally, When a user decides to finish building their team then they exit the application, and the HTML is generated.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License 
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+None
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributing
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Users can contact the repo's owner for more information.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Test
 
-### `npm run build` fails to minify
+N/A
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Questions
+    
+If you have any questions about the repo, feel free to contact me on [GitHub](https://github.com/smguerra). you can find more information at: https://smguerra.github.io/team-profile-generator/
+
+
+## Screenshot
+
+
+![screenshot1](https://user-images.githubusercontent.com/118385737/222846876-3bdae8eb-41a0-421f-acc2-f95c8603fa99.png)
+
+## Tech-Stack
+
+- JavaScript 
+- HTML
+- Npm Inquirer package
+- Npm Jest package
+- Node.js
+
+
+## Links to the deployed application and the GitHub repository
+
+
+- Live Site URL: https://smguerra.github.io/team-profile-generator/
+- Project URL: https://github.com/smguerra/team-profile-generator
+
+
+## Author
+
+- Sandra Guerra
+
+© 2022 edX Boot Camps LLC.
+
+
+
+
+
+
